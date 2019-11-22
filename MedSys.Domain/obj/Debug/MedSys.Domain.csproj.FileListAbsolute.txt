@@ -1,0 +1,82 @@
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\MedSys.Domain.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\MedSys.Domain.pdb
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.Razor.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.Razor.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\obj\Debug\MedSys.Domain.csprojAssemblyReference.cache
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\obj\Debug\MedSys.Domain.csproj.CopyComplete
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\obj\Debug\MedSys.Domain.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\obj\Debug\MedSys.Domain.pdb
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\MedSys.Domain.dll.config
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\EntityFramework.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\EntityFramework.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Owin.dll
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mateusz\WSZiB\MedSys\MedSys.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\MedSys.Domain.dll.config
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\MedSys.Domain.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\MedSys.Domain.pdb
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\EntityFramework.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Owin.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.Helpers.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.Mvc.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.Razor.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\EntityFramework.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.Helpers.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.Mvc.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.Razor.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\obj\Debug\MedSys.Domain.csprojAssemblyReference.cache
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\obj\Debug\MedSys.Domain.csproj.CopyComplete
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\obj\Debug\MedSys.Domain.dll
+D:\Mateusz\WSZiB\Kopa z view\MedSys\MedSys.Domain\obj\Debug\MedSys.Domain.pdb
