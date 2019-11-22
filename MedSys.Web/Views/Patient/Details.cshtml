@@ -1,0 +1,22 @@
+﻿@model MedSys.Domain.Entities.Patient
+
+@{
+    ViewBag.Title = "Pacjent: " + @Model.Name + " " + @Model.Surname;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Pacjent: <b>@Model.Surname @Model.Name</b> </h1>
+@Html.ActionLink("Wstecz", "ListPatient") 
+@Html.ActionLink("Edytuj", "Edit", new { @Model.PatientId})
+@Html.ActionLink("Usuń", "Delete", new { @Model.PatientId})
+
+
+
+<div>
+    <b>Dane:</b>
+    <p>Pesel: <b>@Model.Pesel</b>, Adres: <b>@Model.Address</b>,  Miasto: <b>@Model.City</b>
+   <p><b>Choroby, opis:</b>
+    <p>@Model.Description</p>
+    <b>Badania:</b>
+    <p>@Model.MedicalTestResult</p>
+</div>

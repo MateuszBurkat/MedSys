@@ -1,0 +1,24 @@
+﻿@using MedSys.Domain.Entities
+@using MedSys.Domain.EntityFramework
+@model IEnumerable<Patient>
+
+@{
+    ViewBag.Title = "ListPatient";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div>
+    @Html.ActionLink("Dodaj nowego pacjenta", "Create", null, new { @class = "btn btn-default" })
+</div>
+
+@foreach (var item in Model)
+{
+    <div>
+        @*<h3>@item.Surname @item.Name</h3>*@
+        @Html.ActionLink(item.Surname + " " + item.Name, "Details", new { item.PatientId })
+
+    </div>
+}
+
+
